@@ -1,0 +1,120 @@
+.menu{
+        width: 100%;
+        height: 125px;
+        background-color: rgba(0, 0, 0, .5);
+        position: relative;
+        border-radius: 10px 10px 10px 10px;
+        transition: all 0.5s ease;
+    }
+        
+    .menu:hover{
+
+        width: 100%;
+        height: 125px;
+        background-color: #101e31;
+        background-size: cover;
+        background-size: auto;
+        position: relative;
+        border-radius: 10px 10px 10px 10px;
+    }
+    .menu:hover::after{
+        background-color: #122c4e;
+        opacity: 75%;
+    }
+
+            .menu img{
+
+                justify-content: space-between;
+                display: flex;
+                margin: auto;
+                margin-top: 10px;
+                width: 490px;
+                height: 125px;
+                opacity: 100%;
+                transition: all 0.5s ease;
+            }
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #120100;
+  color: white;
+  text-align: center;
+}
+
+footer a{
+  color: white;
+}
+
+footer a:hover{
+  color: #03fcec;
+  text-shadow: 0px 0 #03fcec;
+
+}
+body {
+  font-family: Bebas Neue, serif;
+  font-size: 19px;
+  background-image: linear-gradient(rgba(17, 17, 17, 0.62),
+  rgba(17, 17, 17, 0.62)), url("https://cdn.discordapp.com/attachments/801264378493009974/1162503552187518986/427161.png?ex=653c2ccd&is=6529b7cd&hm=d20f15e5cef9cdb1724f1546a34684ee9465de62092a829a1d2e439ff6624a9d&");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+  
+.btn {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  padding: 0rem 0.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+}
+
+.btnmeio {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  padding: 0rem 0.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+}
+
+.btn:hover {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  color: #03fcec;
+  text-shadow: 0px 0 #03fcec;
+  padding: 0rem 0.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+  transform: scale(1.015);
+}
+
+.btnmeio:hover {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  text-shadow: 0px 0 white;
+  vertical-align: baseline;
+  user-select: none;
+  padding: 0rem 0.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+  transform: scale(1.015);
+}
+
+.limit{
+    width:124px;
+    text-align: center;
+    word-wrap: break-word;
+}
