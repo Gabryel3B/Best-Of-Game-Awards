@@ -34,6 +34,22 @@
                 transition: all 0.5s ease;
             }
 
+.butoon {
+    border: 2px solid #0e7994;
+}
+
+.butoon:hover {
+    border: 2px solid #03fcec;
+}
+
+.butoonga {
+    color: white;
+}
+
+.butoonga:hover {
+    color: #03fcec;
+}
+
 footer {
   position: fixed;
   left: 0;
