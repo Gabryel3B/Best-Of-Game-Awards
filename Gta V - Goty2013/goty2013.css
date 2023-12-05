@@ -7,7 +7,7 @@ body{
 }
 @font-face {
     font-family: "Bebas Neue";
-    src: url(../fonte/BebasNeue-Regular.ttf)
+    src: url(./fonte/BebasNeue-Regular.ttf)
 }
         .menu{
             position: relative;
