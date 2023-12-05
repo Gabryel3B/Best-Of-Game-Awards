@@ -5,6 +5,10 @@ body{
     background-attachment: fixed; 
     background-size: cover;
 }
+@font-face {
+    font-family: Bebas Neue;
+    src: url(../fonte/BebasNeue-Regular.ttf)
+}
         .menu{
             position: relative;
             width: 100%;
