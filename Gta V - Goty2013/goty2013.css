@@ -6,7 +6,7 @@ body{
     background-size: cover;
 }
 @font-face {
-    font-family: Bebas Neue;
+    font-family: "Bebas Neue";
     src: url(../fonte/BebasNeue-Regular.ttf)
 }
         .menu{
@@ -41,7 +41,7 @@ body{
                     text-align: center;
                     text-decoration: none;
                     width: 100px;
-                    font-family: Bebas Neue;
+                    font-family: "Bebas Neue";
                     font-size: 20px;
                     color: rgb(233, 232, 232);
                     opacity: 30%;
@@ -58,7 +58,7 @@ body{
                     text-align: center;
                     text-decoration: none;
                     width: 190px;
-                    font-family: Bebas Neue;
+                    font-family: "Bebas Neue";
                     font-size: 20px;
                     color: rgb(233, 232, 232);
                     opacity: 30%;
@@ -89,7 +89,7 @@ body{
         transform: scale(1.005);
     }
             .int h1{
-                font-family: Bebas Neue;
+                font-family: "Bebas Neue";
                 font-size: 60px;
                 color: rgb(233, 232, 232);
                 text-align: center;
@@ -115,7 +115,7 @@ body{
                 display: flex;
                 top: 115px;
                 margin-left: 28%;
-                font-family: Bebas Neue;
+                font-family: "Bebas Neue";
                 font-size: 26px;
                 text-align: center;
                 color: rgb(233, 232, 232);
@@ -139,7 +139,7 @@ body{
             text-align: left;
             display: flex;
             justify-content: left;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 40px;
             color: rgb(233, 232, 232);
             margin-left: 22.5%;
@@ -152,7 +152,7 @@ body{
         .cont1 p{
             position: relative;
             text-align: justify;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 26px;
             color: rgb(233, 232, 232);
             margin-left: 7%;
@@ -182,7 +182,7 @@ body{
             text-align: left;
             display: flex;
             justify-content:left;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 40px;
             color: rgb(233, 232, 232);
             margin-left: 48%;
@@ -204,7 +204,7 @@ body{
         }
         .container2 h3{
             position: relative;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 28px;
             color: rgb(233, 232, 232);
             display: flex;
@@ -213,7 +213,7 @@ body{
         .text-cont2{
             position: relative;
             text-align: justify;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 26px;
             width: 650px;
             color: rgb(233, 232, 232);
@@ -244,14 +244,14 @@ body{
         }
         .container2-1 h3{
             position: relative;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 28px;
             color: rgb(233, 232, 232);
             display: flex;
         }
         .container2-1 p{
             position: relative;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 26px;
             width: 650px;
             color: rgb(233, 232, 232);
@@ -290,14 +290,14 @@ body{
         }
         .container2-2 h3{
             position: relative;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 28px;
             color: rgb(233, 232, 232);
             display: flex;
         }
         .container2-2 p{
             position: relative;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 26px;
             width: 650px;
             color: rgb(233, 232, 232);
@@ -324,7 +324,7 @@ body{
             justify-content:left;
             top: 50px;
             margin-left: 10%;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 40px;
             color: rgb(233, 232, 232);
         }      
@@ -343,7 +343,7 @@ body{
         }
         .container3 h3{
             position: relative;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 28px;
             color: rgb(233, 232, 232);
             display: flex;
@@ -352,7 +352,7 @@ body{
         .container3 p{
             position: relative;
             text-align: justify;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 26px;
             width: 600px;
             color: rgb(233, 232, 232);
@@ -384,7 +384,7 @@ body{
             }
             .container3-1 h3{
                 position: relative;
-                font-family: Bebas Neue;
+                font-family: "Bebas Neue";
                 font-size: 28px;
                 color: rgb(233, 232, 232);
                 display: flex;
@@ -392,7 +392,7 @@ body{
             }
             .container3-1 p{
                 position: relative;
-                font-family: Bebas Neue;
+                font-family: "Bebas Neue";
                 font-size: 26px;
                 width: 650px;
                 color: rgb(233, 232, 232);
@@ -420,7 +420,7 @@ body{
             }
             .container3-2 h3{
                 position: relative;
-                font-family: Bebas Neue;
+                font-family: "Bebas Neue";
                 font-size: 28px;
                 color: rgb(233, 232, 232);
                 display: flex;
@@ -428,7 +428,7 @@ body{
             }
             .container3-2 p{
                 position: relative;
-                font-family: Bebas Neue;
+                font-family: "Bebas Neue";
                 font-size: 26px;
                 width: 650px;
                 color: rgb(233, 232, 232);
@@ -463,13 +463,13 @@ body{
             justify-content:left;
             top: 40px;
             margin-left: 42.5%;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 40px;
             color: rgb(233, 232, 232);
         }
         .org-cont4 p{
             position: relative;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 26px;
             width: 650px;
             color: rgb(233, 232, 232);
@@ -501,13 +501,13 @@ body{
             justify-content:left;
             top: 60px;
             margin-left: 37%;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 40px;
             color: rgb(233, 232, 232);
         }
         .org-cont5 p{
             position: relative;
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 26px;
             width: 650px;
             color: rgb(233, 232, 232);
@@ -520,7 +520,7 @@ body{
             position: relative;
             text-decoration: none;
             color: rgb(233, 232, 232);
-            font-family: Bebas Neue;
+            font-family: "Bebas Neue";
             font-size: 26px;
             text-align: center;
             display: inline;
@@ -556,7 +556,7 @@ body{
     text-align: center;
     justify-content: space-around;
     margin-left: 7.5%;
-    font-family: Bebas Neue;
+    font-family: "Bebas Neue";
     font-size: 26px;
     color: rgb(233, 232, 232);
 }
